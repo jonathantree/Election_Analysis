@@ -32,6 +32,7 @@ winning_percentage = 0
 
 # Open the election results and read the file.
 with open(file_to_load) as election_data:
+     print("helo")
 
      # Read the file object with the reader function.
      file_reader = csv.reader(election_data)
