@@ -8,7 +8,7 @@ There has been a recent local congressional election in Colorado and a Colorado 
 3. Calculate the total number of votes each of the candidates recieved.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
-6. Format a text document which can be delivered to the CBE summarizing the results.
+6. Format a text document which can be delivered to the Election Commission summarizing the results.
 
 ## Resources Used
 - Data Source: election_results.csv
