@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-There has been a recent local congressional election in Colorado and a Colorado Board of Elections Office (CBE) employee has requested an audit be done using python as the analysis tool of choice. The requested audit details are as follows:
+There has been a recent local congressional election in Colorado and a Colorado Board of Elections Office employee has requested an audit be done using python as the analysis tool of choice. The requested audit details are as follows:
 
 1. Calculate the total number of votes cast.
 2. Obtain a list of all of the candidates who recieved votes.
@@ -15,24 +15,25 @@ There has been a recent local congressional election in Colorado and a Colorado 
 - Software: Python 3.7.6, Visual Studio Code 1.63.2
 
 ## Challenge Overview
-In addition to the auddit results for the candidates, the election commision has requested some additional data to complete the audit:
+In addition to the audit results for the candidates, the election commision has requested some additional data to complete the audit of:
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
 ## Election Audit Results
 
-- The total number of votes that were cast in this election were 369,711.
+- The total number of votes that were cast in this election was 369,711.
   
 - A breakdown of the percentage of total votes and the number of votes for each county in the precinct:
-  - Jefferson County cast 10.5% of the total vote with 38,855 votes.
-  - Denver County cast 82.8% of the votes with 306,055 votes
-  - Arapahoe County cast 6.7% of the votes with 24,801 votes
+  - Jefferson County cast 10.5% of the total vote with 38,855 votes
+  - Denver County cast 82.8% of the total vote with 306,055 votes
+  - Arapahoe County cast 6.7% of the total vote with 24,801 votes
 
 - Which county had the largest number of votes?
   - Denver County had the largest number of votes, making up 82.8% (306,055 out of 369,711 votes) of the total number of votes.
   
 - A breakdown of the percentage of total votes and the number of votes each candidate received:
+  - The candidates running in this election were Charles Casper Stockham, Diana Degette, and Raymon Anthony Doane
   - The candidate results were:
     - Charles Casper Stockam received 23.0% of the vote and 85,213 votes
     - Diana DeGette received 73.8% of the vote and 272,892 votes
